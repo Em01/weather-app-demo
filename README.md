@@ -1,2 +1,2 @@
 # weather-app-example
-# weather-app-demo
+Sample code for the Free Code Camp beginners course on React Native.
